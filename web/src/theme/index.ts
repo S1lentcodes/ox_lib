@@ -17,6 +17,5 @@ export const theme = extendTheme({
       700: 'green', // Hover color of context menu
       800: 'red', // Main background of context menu
     },
-    "chakra-body-text": "blue",
   },
 });
